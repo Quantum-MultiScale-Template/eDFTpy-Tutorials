@@ -1,5 +1,0 @@
-&system
-   lda_plus_u = .true.
-   lda_plu_u_kind = 0
-   Hubbard_U (1) = 2.0
-/
